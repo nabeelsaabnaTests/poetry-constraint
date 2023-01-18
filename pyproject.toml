@@ -19,7 +19,9 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = ">=3.4"
+
 autopep8 = "1.5.6"
+
 
 [tool.poetry.dev-dependencies]
 pytest = "*"
